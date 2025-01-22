@@ -10,14 +10,11 @@
  ***************************************************REMEMBER************************************************************
  */
 //TODO important:
-// correction of GitHub
 // correction of commenting and code readability
 // test the game from first to end of two rounds
 
 //TODO
 // making an installable file for the game
-// write more description in game loadings at the moment of projection
-// getting the best score
 
 /*
  ***************************************************HEADERS*************************************************************
