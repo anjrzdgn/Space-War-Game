@@ -40,7 +40,7 @@
 
 ## 🖼️Visual Demonstrations
 - #### The Game intro
-<img src="https://github.com/anjrzdgn/Space-War-Game/blob/main/Intro.mp4?raw=true" width="480" ><br>
+<img src="https://github.com/anjrzdgn/Space-War-Game/blob/main/intro.png?raw=true" width="480" ><br>
 
 - #### Map 1 loading page
 <img src="https://github.com/anjrzdgn/Space-War-Game/blob/main/loading map 1.png?raw=true" width="480" ><br>
